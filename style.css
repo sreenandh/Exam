@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+.row1{
+    display: flex;
+    background-color: rgb(249, 225, 180);
+    height: 60px;
+    justify-content: space-between;
+    
+}
+
+.row2{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 160px;
+}
+.col2{
+    display: flex;
+}
+
+.btn-1{
+    background-color: orangered;
+    color: white;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+}
+
+.col3{
+    background-color: rgb(248, 242, 234);
+    text-align: center;
+}
+
+.fcards{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    margin: 5px;
+    padding-top: 30px;
+    
+}
+
+.cards{
+    display:flex;
+    justify-content: center;
+
+}
+
+.img2{
+    margin-right: 60px;
+    margin-top: 200px;
+}
+
+.row5{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 90px;
+}
+
+.btn-4{
+    background-color: white;
+    color: orangered;
+    border: 1px solid black;
+
+}
+
+.img3{
+    margin-top: 60px;
+}
+
+.row7{
+    margin-top: 50px ;
+    margin-left: 500px;
+}
+
+.row10{
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(251, 244, 235);
+}
+
+.icon{
+    display: flex;
+    justify-content: left;
+}
+
+.row11{
+    background-color: rgb(253, 192, 78);
+    
+}
+.letsdo{
+
+    padding: 100px;
+}
+.row10 h3{
+    display: flex;
+    text-align: left;
+}
